@@ -1,3 +1,5 @@
+from toy import Toy
+
 toys = [
     {
         "name": "Ball",
