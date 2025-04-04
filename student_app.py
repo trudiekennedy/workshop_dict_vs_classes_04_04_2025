@@ -1,9 +1,18 @@
-from names import get_random_name
+toys = [
+    {
+        "name": "Ball",
+        "colour": "red"
+    },
+    {
+        "name": "Teddy",
+        "colour": "brown"
+    }
+]
 
-# Make a persons list with at least 2 dictionaries representing a person with hobbies
+# Make a toys list with at least 2 dictionaries representing a toy with name and colour DONE
 
-# create a function to print out the name of the persons
+# create a function to print out the name of all toys
 
-# create a function to print out all hobbies of the persons eg. print(all_hobbies()) => ['tennis', 'working out', 'maths']
+# create a function to print out all colours of toys. print(print_colours()) => ['red', 'green']
 
-# Now do this with a class
+# Now do this with classes
