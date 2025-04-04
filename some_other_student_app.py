@@ -18,3 +18,4 @@ toys = [
 # create a function to print out all colours of toys. print(print_colours()) => ['red', 'green']
 
 # Now do this with classes
+
